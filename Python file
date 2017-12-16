@@ -1,2 +1,7 @@
 This is for Python file
+<<<<<<< HEAD
 There are some operators like arithmetic operators , logical operators and etc.
+=======
+This is also done in master file leraning_Python file
+To see results
+>>>>>>> master
